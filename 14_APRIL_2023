@@ -1,0 +1,6 @@
+````
+def split_and_join(line):
+    # write your code here
+    str_array = line.split(" ")
+    return '-'.join(str_array)
+````
