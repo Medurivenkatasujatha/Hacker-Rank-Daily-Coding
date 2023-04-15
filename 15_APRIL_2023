@@ -1,4 +1,4 @@
-````
+```
 def count_substring(string, sub_string):
     l=len(sub_string)
     c=0
@@ -7,4 +7,4 @@ def count_substring(string, sub_string):
         if s==sub_string:
             c=c+1
     return c
-````
+```
