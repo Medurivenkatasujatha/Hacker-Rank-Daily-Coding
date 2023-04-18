@@ -1,11 +1,6 @@
 ```
 if __name__ == '__main__':
     s = input()
-    s1=False
-    s2=False
-    s3=False
-    s4=False
-    s5=False
     for i in s:
         if i.isalnum():
             s1=True
