@@ -1,0 +1,8 @@
+```
+def mutate_string(string, position, character):
+    list1=list(string)
+    list1[position]=character
+    string=''.join(list1)
+    return string
+```
+    
